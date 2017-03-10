@@ -1,0 +1,35 @@
+{
+  "name": "MineDex",
+  "version": "1.0.0",
+  "description": "Offline encyclopedia of Minecraft items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theJian/MineDex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/theJian/MineDex/issues"
+  },
+  "homepage": "https://github.com/theJian/MineDex#readme",
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-loader": "^6.3.2",
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "react-hot-loader": "^3.0.0-beta.6"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.0"
+  }
+}
