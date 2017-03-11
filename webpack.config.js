@@ -25,7 +25,7 @@ module.exports = {
 		contentBase: config.outputPath,
 		publicPath: '/'
 	},
-	modules: {
+	module: {
 		rules: [
 			{
 				test: /\.jsx?$/,
